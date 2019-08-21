@@ -1,0 +1,4 @@
+com\example\demo\modelo\Usuario.class
+com\example\demo\DemoApplication.class
+com\example\demo\controlador\UsuarioControlador.class
+com\example\demo\servicio\UsuarioServicio.class
